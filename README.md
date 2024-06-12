@@ -48,3 +48,6 @@ Num | Nome | Nota
 1 | Leandro | 8,5
 2 | Maria | 9
 3 | Cristiane | 3
+
+### Comandos
+Não entendi direito para que serve o comando `document.getElementById()` da linguagem Javascript
