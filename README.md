@@ -41,3 +41,8 @@ Podemos _*misturar*_ configurações
 
 ### Links
 [Acesse meu Github](https://github.com/leandrobritodev)
+
+### Tabelas
+Num | Nome | Nota
+---|---|---
+1 | Leandro | 8,5
