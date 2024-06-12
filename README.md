@@ -97,6 +97,6 @@ else:
 ```
 
 ### Emojis
-:vulcan_salute
-:hand
-:scream
+:vulcan_salute:
+:hand:
+:scream:
