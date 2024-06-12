@@ -95,3 +95,8 @@ else:
     print('A resposta certa era: {}'.format(palavra_chave))
 
 ```
+
+### Emojis
+:vulcan_salute
+:hand
+:scream
