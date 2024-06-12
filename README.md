@@ -37,4 +37,4 @@ Podemos _*misturar*_ configurações
 - [] Receber pagamento
 
 ### Imagens
-![Assinatura](img/assinatura-projeto.png)
+![Assinatura](site-exemplo/img/assinatura-projeto.png)
