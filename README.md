@@ -16,16 +16,22 @@ _Itálico_
 
 Podemos _*misturar*_ configurações
 
-Lista numerada
+### Lista numerada
 
 1. Teste 
 1. Teste 2
 1. Teste 3
 1. Teste 4
 
-Lista demarcada
+### Lista demarcada
 
 * Teste
 * Teste
     * Teste
 * Teste
+
+### Lista de Tarefas
+- [] Criar a página principal
+- [] Criar a página da loja
+- [] Conversar com o cliente
+- [] Receber pagamento
