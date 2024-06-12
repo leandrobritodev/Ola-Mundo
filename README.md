@@ -46,3 +46,5 @@ Podemos _*misturar*_ configurações
 Num | Nome | Nota
 ---|---|---
 1 | Leandro | 8,5
+2 | Maria | 9
+3 | Cristiane | 3
