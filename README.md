@@ -35,3 +35,6 @@ Podemos _*misturar*_ configurações
 - [] Criar a página da loja
 - [] Conversar com o cliente
 - [] Receber pagamento
+
+### Imagens
+![Assinatura](img/assinatura-projeto.png)
